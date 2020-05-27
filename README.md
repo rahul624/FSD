@@ -1,2 +1,0 @@
-# FSD
-full stack development
